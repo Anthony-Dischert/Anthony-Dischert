@@ -17,6 +17,7 @@ Right now, I’m focused on strengthening my foundation in systems, troubleshoot
 
 - CompTIA Security+
 - CompTIA Network+
+- CompTIA Project+
 
 ## Interests
 
